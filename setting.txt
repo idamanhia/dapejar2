@@ -1,0 +1,4 @@
+Edit Data model.php
+
+\dapejar\control\
+$domain = "http://localhost/dapejar/";

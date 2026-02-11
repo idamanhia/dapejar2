@@ -13,7 +13,7 @@
                                 <div class="avatar mr-1">
                                     <img src="<?=$assetLink?>assets/images/avatar/avatar-s-1.png" alt="" srcset="">
                                 </div>
-                                <div class="d-none d-md-block d-lg-inline-block">Hi, <?=$username?></div>
+                                <div class="d-none d-md-block d-lg-inline-block">Halo, <?=$username?></div>
                             </a>
                             <div class="dropdown-menu dropdown-menu-right">
                                 <a class="dropdown-item" href="<?=$domain?>ganti-password/" <?=active($url[0],'ganti-password')?>><i data-feather="settings"></i> Set Password</a>
